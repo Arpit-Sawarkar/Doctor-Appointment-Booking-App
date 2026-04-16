@@ -89,6 +89,25 @@ DoctorAppointBooking
                      └── themes.xml
 ```
 
+## ▶ How to Run
+### Prerequisites
+- Android Studio installed
+- Android SDK setup
+- Emulator or real device
+### Steps to Run
+1. Clone the repository
+   ```
+   git clone https://github.com/Arpit-Sawarkar/Doctor-Appointment-Booking-App.git
+   ```
+   
+## 📸 Screenshots
+
+![Home](images/home.png)
+
+![Booking](images/booking.png)
+
+![Profile](images/profile.png)
+
 
 
   
