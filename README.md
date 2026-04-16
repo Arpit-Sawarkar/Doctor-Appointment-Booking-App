@@ -108,11 +108,11 @@ DoctorAppointBooking
    
 ## 📸 Screenshots
 
-![Home](images/home.png)
+![Home](Images/home.png)
 
-![Booking](images/booking.png)
+![Booking](Images/book.png)
 
-![Profile](images/profile.png)
+![Profile](Images/profile.png)
 
 
 
