@@ -60,6 +60,8 @@ DoctorAppointBooking
             │           │    └─ BookingAdapter.java
             │           ├── profile
             │           │    └── ProfileFragment.java
+            |           ├── home
+            |           |    └── HomeFragment.java
             │           └── auth
             │                ├── LoginActivity.java
             │                └── SignupActivity.java
@@ -71,6 +73,7 @@ DoctorAppointBooking
                  │   ├─ activity_booking_form.xml
                  │   ├─ activity_bookings.xml
                  │   ├─ fragment_booking.xml
+                 |   ├─ fragment_home.xml
                  │   ├─ fragment_profile.xml
                  │   ├─ activity_login.xml
                  │   ├─ activity_sign_up.xml
