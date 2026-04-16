@@ -1,4 +1,4 @@
-# ⚕️Doctor Appointment Booking Android Application
+# ⚕️Doctor Appointment Booking - Android Application
 This is an academic Android-based mobile application developed as part of a project. It allows users to find doctors, view their details, and book appointments easily. The app provides a simple and user-friendly interface for managing doctor consultations without the need to visit clinics physically.
 
 ## 📌 Problem Statement
@@ -30,6 +30,62 @@ I worked on both UI and database parts of the project i designed user-friendly i
 
 ## 📂 Project Structure
 ```
+DoctorAppointBooking
+│
+├─ Images
+├─ README.md
+├─ .gitignore
+├─ gradle
+└─ app
+    └─ src
+        └─ main
+            ├── AndroidManifest.xml
+            ├── java
+            │    └─ com.example.mydoctor
+            │       ├─ MainActivity.java
+            │       ├─ database
+            │       │   └─ DatabaseHelper.java
+            │       ├─ model
+            │       │   └─ Appointment.java
+            │       ├─ adapter
+            │       │   └─ DoctorAdapter.java
+            │       ├─ ui
+            │           ├─ doctor
+            │           │   ├─ Doctor.java
+            │           │   ├─ DoctorDetailActivity.java
+            │           │   ├─ BookingFormActivtiy.java
+            │           │   └─ BookingActivity.java
+            │           ├── booking
+            │           │    ├─ BookingFragment.java
+            │           │    └─ BookingAdapter.java
+            │           ├── profile
+            │           │    └── ProfileFragment.java
+            │           └── auth
+            │                ├── LoginActivity.java
+            │                └── SignupActivity.java
+            └── res
+                 │
+                 ├── layout
+                 │   ├─ activity_main.xml
+                 │   ├─ activity_doctor_detail.xml
+                 │   ├─ activity_booking_form.xml
+                 │   ├─ activity_bookings.xml
+                 │   ├─ fragment_booking.xml
+                 │   ├─ fragment_profile.xml
+                 │   ├─ activity_login.xml
+                 │   ├─ activity_sign_up.xml
+                 │   ├─ item_doctor.xml
+                 │   └─ item_booking.xml
+                 ├── drawable
+                 │   ├── user.png
+                 │   ├── check.png
+                 │   └── bg_searchcolour.xml
+                 └── values
+                     ├── colors.xml
+                     ├── strings.xml
+                     └── themes.xml
+```
+
 
 
   
