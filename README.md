@@ -105,6 +105,9 @@ DoctorAppointBooking
 5. Connect an emulator or Android device  
 6. Click on **Run ▶️** button  
 
+## 📥 Download APK
+
+Life Care + -> [Download](apk/app-release.apk)
    
 ## 📸 Screenshots
 
