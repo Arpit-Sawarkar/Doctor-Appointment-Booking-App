@@ -107,7 +107,7 @@ DoctorAppointBooking
 
 ## 📥 Download APK
 
-### Life Care + --> [Download](apk/app-release.apk)
+### Life Care + --> [Download](apk/app-debug.apk)
    
 ## 📸 Screenshots
 
