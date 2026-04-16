@@ -99,6 +99,12 @@ DoctorAppointBooking
    ```
    git clone https://github.com/Arpit-Sawarkar/Doctor-Appointment-Booking-App.git
    ```
+2. Open Android Studio  
+3. Click on **Open Project** and select the project folder  
+4. Wait for Gradle Sync to complete  
+5. Connect an emulator or Android device  
+6. Click on **Run ▶️** button  
+
    
 ## 📸 Screenshots
 
